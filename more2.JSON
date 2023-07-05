@@ -1,0 +1,20 @@
+[
+    {
+        "id": 4,
+        "name": "이거 먹을꺼야?",
+        "image": "https://9alexxxian4.github.io/morealex.github.io/4.PNG",
+        "price": 20000
+    },
+    {
+        "id": 5,
+        "name": "저거 먹을꺼야?",
+        "image": "https://9alexxxian4.github.io/morealex.github.io/5.PNG",
+        "price": 16000
+    },
+    {
+        "id": 6,
+        "name": "다 먹을래?",
+        "image": "https://9alexxxian4.github.io/morealex.github.io/6.PNG",
+        "price": 22000
+    }
+]
